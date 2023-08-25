@@ -1,3 +1,5 @@
+# Blog Post 1: Internet Arcade 
+
 ![Out Run Screenshot](https://github.com/ricedust-school/art108-blog/assets/62413269/31c7e79e-6445-43fa-96d1-671410d3d664)
 
 ## 1. Write about your experience playing, what happened during play?
