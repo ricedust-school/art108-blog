@@ -72,6 +72,6 @@ In an exact repeat of Shane's tragic demise, all of Hannah's influence is immedi
 
 # Retrospective
 
-At its core, I find that *Coup* is sort of an extension of Rock Paper Scissors in that each character has a strength and a vulnerability, but you are able to lie about whether you threw rock, paper, or scissors. Even though the rules are simple and easy to learn, they can breed interesting interactions because of the added bluffing aspect. 
+At its core, I find that *Coup* is sort of an extension of Rock Paper Scissors in that each character has a strength and a vulnerability, but you are able to lie about throwing rock, paper, or scissors. Even though the rules are simple and easy to learn, they can breed interesting interactions because of the added bluffing aspect. 
 
 I also found tbat *Coup* is very good at teaching itself to new players. I love that Coup comes with reference cards for each player, so that players do not have to pass around the instructions to refresh their memory. 
