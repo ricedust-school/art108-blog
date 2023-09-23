@@ -28,12 +28,12 @@ Walking away from the first play session, I was very happy with the foundations.
 
 ![](https://cdn.discordapp.com/attachments/514222690580693017/1155047534604066876/IMG_3046.jpg)
 
-In play session two, I explained the rules to a friend and found the game was pretty easy to teach and pick up in just a minute or two. I implemented a few ideas I'd had since the first playthough in this game:
+In play session two, I explained the rules to a friend and found the game was pretty easy to teach and pick up in just a minute or two. I implemented a few ideas I'd had since the first playthrough in this game:
 
 1. I expanded the player hand from 3 to 5 cards to encourage meaningful decision making.
 2. I enforced a board pattern where red and black cards needed to alternate to create a checkerboard pattern. I hoped that this would inspire more creative gameplay by imposing limitations where before, any card could be played anywhere.
 
-In 1v1's, I noticed that once one player had gotten a lead, it was diffult to catch up. I introduced a rule where in order to move onto the finish card, you had to roll 12 minus the card you came from. For example, in order to move from a 5 onto the winning card, you had to roll a 12 - 5 = 7 or higher. This gave players who were behind the opportunity to catch up by barring the leading player from easily gaining access to the finish card.
+In 1v1's, I noticed that once one player had gotten a lead, it was difficult to catch up. I introduced a rule where in order to move onto the finish card, you had to roll 12 minus the card you came from. For example, in order to move from a 5 onto the winning card, you had to roll a 12 - 5 = 7 or higher. This gave players who were behind the opportunity to catch up by barring the leading player from easily gaining access to the finish card.
 
 My friend quickly discovered a strategy to exploit this mechanic. Intentionally placing a low-value card in front of the finish card can act as a barrier for players who are ahead because the 12 minus rule required of the player a higher and thus more difficult roll in order to win. 
 
@@ -45,10 +45,10 @@ In the final play session, I made some last minute changes that took the game on
 
 Andre suggested that it might make more sense to increase the gap between the start and finish cards from 3 to 4 cards. The game felt better-paced and it was more elegant because it preserved the red-black-red-black alternating pattern between the two jokers.
 
-Rather than roll a D12, I thought it might be interesting to experiement with rolling two D6 and summing them up instead, like Monopoly. This would weight the outcome towards 7 and make the extremes, 2 and 12, less likely. In play, I found it more satisfying to roll 2 D6's, and I felt it to be a better fit.
+Rather than roll a D12, I thought it might be interesting to experiment with rolling two D6 and summing them up instead, like Monopoly. This would weight the outcome towards 7 and make the extremes, 2 and 12, less likely. In play, I found it more satisfying to roll 2 D6's, and I felt it to be a better fit.
 
 Additionally, it opened up the possibility for rolling doubles. Just for fun, I implemented the Monopoly mechanic of getting to move again when you roll a double, and I found this helped players that were lagging behind catch up and helped break the cycle of trailing behind another player.
 
 ## Wrapping Things Up
 
-As I wrote the paper prototype and formalized the rules, I decided to call the game *Risky Roads* because I thought it captured something about the dynamics of the game. I call player game pieces *travelers* in keeping with the theme. I'm glad I got to test the game on more than three occassions because it really helped me understand the game inside and out and fine tune the system.
+As I wrote the paper prototype and formalized the rules, I decided to call the game *Risky Roads* because I thought it captured something about the dynamics of the game. I call player game pieces *travelers* in keeping with the theme. I'm glad I got to test the game on more than three occasions because it helped me understand the game inside and out and fine tune the system.
