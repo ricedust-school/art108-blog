@@ -1,0 +1,17 @@
+![image](https://github.com/ricedust-school/art108-blog/assets/62413269/f43752de-2e2b-47a2-b6f7-caa883581d5a)
+
+## MOBS, INC
+
+This roguelike had beautifully kinetic animations and a lot of personality in its visual style. The dash mechanic served as both movement and attack, which made the game feel almost casual/hyper-casual in that gameplay was driven by a single mechanic and its timing. The introduction of abilities through "promotions" after gaining a certain amount of experience added much variety to the mostly unchanging level and instilled a sense of power while still retaining the danger/difficulty. I thought it was an interesting design decision to pull the player out of the game after losing a life and placing them back in the level; it gave the game a greater sense of progression even though the game was technically endless after a certain level. Having the opportunity to both observe and play this game, I found that observing put me in a position of thinking about the player's decisions more critically: *why did the player move that way?*, *how did that interaction make the player react?*. Playing allowed me to make these decisions spontaneously as well as the opportunity to try things that I had thought about while observing someone else.
+
+## This is the Only Level
+
+The concept of this platformer was a (technically) unchanging level that you needed to clear over and over with different control schemes, rules, and puzzles each time. Because each level has the same platforms in the same places and the same button that opens the same door, I wonder if the author designed every mechanic/puzzle around the level, or whether the level was tirelessly tweaked to accomodate every new twist, although the former seems much more likely. Interestingly, the fact that only a hint is provided for each stage adds a dynamic of experimentation and testing until a pattern is discovered.
+
+## Critical Connection
+
+The designers for both games faced a similar challenge of designing an interesting player experience around a single level that needed to be revisited over and over. For *MOBS, INC*, it was a singular rectangular space. For *This is the Only Level*, it was a single obstacle course. In both cases, a variety of interesting mechnics, introduced over time, made the game more engaging. *This is the Only Level* created a dynamic of puzzle/experimentation and then the challenge of coping with the new change. *MOBS, INC* used subtle environmental obstacles, satisfying new abilities, and player leveling through experience to create a sense of progress. The end result however, was a similar sense of curiosity, that of *what's coming next?* In *This is the Only Level*, it was a mysterious new twist. In *MOBS, INC*, it was a mysterious new ability.
+
+## Lofi Room
+
+This was, by far, my favorite game from the lab. It was essentially a mashup of a point-and-click puzzle game and a guitar hero-style rhythm game. The game payed much respect and attention to the music playback and recording. Each new instrument discovered would add a layer to the continuously looping soundtrack. The game also ensured the rhythm minigame began on the correct bar to be in time with the track, complete with a metronome. It really reminded me of recording MIDI into my DAW, looping over a section and waiting for the correct bar to arrive. In fact, there was even an option to record and layer my own tracks without any constraints.
