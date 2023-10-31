@@ -1,6 +1,6 @@
 ![Screenshot 2023-10-30 172934](https://github.com/ricedust-school/art108-blog/assets/62413269/ce9ac290-9eb0-4eb7-9c8e-f955a3fcc703)
 
-# https://ricedust.itch.io/deputy-dirk (password: dirk)
+# https://ricedust.itch.io/deputy-dirk
 
 ## Credits
 
