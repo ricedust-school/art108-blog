@@ -33,4 +33,4 @@ I joke to those who know about my game that the universe conspired to send my ga
 
 The reality set in that, ultimately, this was not a class in storytelling but a class in games. As it happens, failing fast is not only a mantra for game designers, it's also a mantra for the storytellers over at Pixar, and I had been failing quite slowly.
 
-Some days ago, the words fell into the right places and I arrived at a final draft. Much work remains, and I reassure myself that it's worth doing because it's hard. Truth be told, I have no idea whether it is a good story, but I can promise it will be an honest one.
+Some days ago, the words fell into the right places and I arrived at a final draft. Much work remains, and I reassure myself that it's worth doing because it's hard. Truth be told, I have no idea whether it is a good story, but it is an honest one.
