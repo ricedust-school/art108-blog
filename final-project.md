@@ -14,7 +14,7 @@ There are a handful of games that have made me feel this way and each time it ha
 
 ![IMG_3219](https://github.com/ricedust-school/art108-blog/assets/62413269/b8af53ab-5a4a-438d-8579-275e4c615ce6)
 
-*Deputy Dirk*, my previous game, was a personal experiment in ludology; in this game, I wanted to embrace narratology with zero compromises. This wasn't my first time writing a story. I had a basic grasp of the shape of a story but had never invested time to peek below the surface. 
+*Deputy Dirk*, my previous game, was a personal experiment in ludology; this time, I wanted to embrace narratology with zero compromises. This wasn't my first time writing a story. I had a basic grasp of the shape of a story but had never invested time to peek below the surface. 
 
 Did you know Pixar offers an entire course in storytelling for free on Khan Academy? I didn't. In my first week, I spent my free time listening to story architects talk about their craft and hoarded their words in my notebook. I figured that sacrificing a week studying narrative was neccessary if I wanted to write a compelling game. Gradually my character, his world, and his passions crystallized in a markdown document.
 
