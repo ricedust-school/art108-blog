@@ -2,7 +2,7 @@
 
 # I may have overscoped.
 
-*You would think that by now, working on my seventh game, I should know better than to write such a game from scratch with little over a month to the deadline. And yet here I am writing this and here you are reading this.*
+*You would think that by now, working on my seventh game, I should know better than to write a game like this from scratch with little over a month to the deadline. And yet here I am writing this and here you are reading this.*
 
 ## How it started.
 
